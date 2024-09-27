@@ -1,0 +1,7 @@
+mutation uploadFile($payload: FileUpload) {
+  uploadFile(uploadFile: $payload)
+}
+
+mutation uploadFiles($payload: [FileUpload]) {
+  uploadFiles(uploadFiles: $payload)
+}
