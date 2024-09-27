@@ -68,7 +68,7 @@ pnpm dev
 npm run dev
 ```
 
-4 Open http://localhost:5173 to view the project in the browser.
+4. Open http://localhost:5173 to view the project in the browser.
 5. You can now upload images to the GraphQL API.
 6. Screenshot
   <img src="./public/screenshot.png"  alt="My github" />
